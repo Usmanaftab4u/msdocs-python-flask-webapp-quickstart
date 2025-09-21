@@ -8,3 +8,20 @@ Sample applications are available for the other frameworks here:
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+
+
+---
+
+## Live Demo (AWS App Runner)
+
+AWS App Runner default domain (running container image from Amazon ECR):
+
+**https://xqyqjz2sdf.eu-west-2.awsapprunner.com**
+
+> Note: This demo Service will remain live until 24-09-2025/4:00 GMT+5 to avoid charges. If it’s offline, ping me and I’ll re-activate.
+
+---
+
+## CI/CD & Container
+- Dockerfile: `/Dockerfile`
+- GitHub Actions workflow: `.github/workflows/build-and-push.yml`
